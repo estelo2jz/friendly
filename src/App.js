@@ -22,12 +22,6 @@ var people = [
     img: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p240x240/81439133_2519122608325144_4663547997634691072_n.jpg?_nc_cat=107&_nc_oc=AQnA1vRRixMs7dswoS2i1yVoRWlpsm30pPsyY_zqKnnS4IBbOF2wxrCMaNv_iC5kbr7-88nDUuN6xa05QXEONtKR&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=0222e0438e4c541bc51f65a884fd967a&oe=5ECBCBCE"
   },
   {
-    id: 3,
-    name: "Anibal",
-    gender: "male",
-    img: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p240x240/85169044_2778991935494133_6757418071389896704_o.jpg?_nc_cat=101&_nc_oc=AQnuDLI8rhyP1G2b5jpHvomRt-q6z94_ptWXFeNfNr8J72-HjCzVeVz0-7ttRkvhyERUwpF3olDmPSIjlAndU2MH&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=2c6a42117807d7ae8b53060c1522a868&oe=5EC0CCED"
-  },
-  {
     id: 4,
     name: "Alexis",
     gender: "female",
@@ -62,12 +56,6 @@ var people = [
     name: "Rolando",
     gender: "male",
     img: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p240x240/73221788_2778254822187299_4924890340915150848_n.jpg?_nc_cat=105&_nc_oc=AQmUpcfKp_insH-rdboHynZh8EGM95laDaCXJSS8h4K4zaGhfcC23JoJeUpcrHw87TsT_Tsw0UDt9MKzv5eGgI15&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=d7c1a81ca83b866c30f15e1ae01f1525&oe=5EC03C5C"
-  },
-  {
-    id: 10,
-    name: "Irvina",
-    gender: "female",
-    img: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p240x240/81870339_2216545591973030_4772113234595414016_n.jpg?_nc_cat=108&_nc_oc=AQl4CewTW6duyMk0axGwVmx1OasNtuxcSrGF-nLXaSzlmfGx8a_hFdrokY05I8E6Gz6V-P-TWLeI6ftV3iUMqMwX&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=0efef81c4f3dd0a20f33476bb49e7740&oe=5EBEC27F"
   },
   {
     id: 11,
